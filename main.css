@@ -52,6 +52,7 @@ nav{
 .section1{
     display: flex;
     width: fit-content;
+    width:-moz-fit-content;
     margin: 80px auto;
 }
 .dev-Virtual-heal{
@@ -165,6 +166,7 @@ nav{
 .section3{
     display: flex;
     width: fit-content;
+    width:-moz-fit-content;
     margin: 126px auto 0;
     
 }
@@ -216,6 +218,7 @@ nav{
 .section4{
     display: flex;
     width: fit-content;
+    width:-moz-fit-content;
     margin: 200px auto 0;
 }
 .section4 img{
@@ -266,6 +269,7 @@ nav{
 .section5{
     margin: 216px  auto 0;
     width: fit-content;
+    width:-moz-fit-content;
 }
 .countaner6{
     width: 903px;
@@ -329,6 +333,7 @@ nav{
 /* start section 6  */
 .section6{
     width: fit-content;
+    width:-moz-fit-content;
     margin: 280px auto 0;
 }
 .section6 > img{
@@ -339,6 +344,7 @@ nav{
 }
 .countaner10 {
     width: fit-content;
+    width:-moz-fit-content;
     margin: 0 auto;
 }
 .countaner10 h3{
